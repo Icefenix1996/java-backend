@@ -1,0 +1,2 @@
+public class ProgramTask46 {
+}
