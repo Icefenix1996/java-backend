@@ -4,7 +4,7 @@ public class Introduction {
 for (int i = 0; i < 5; i++) {
 System.out.print(s);
 }
-	String z = (" я хочу быть разработчиком ");
+	String z = " я хочу быть разработчиком ";
 for (int i = 0; i < 5; i++) {
 System.out.println(z);
 }
